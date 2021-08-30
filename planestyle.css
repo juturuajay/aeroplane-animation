@@ -26,7 +26,7 @@ body{
 	bottom:150px;
 	right:-200px;
 	
-	animation: plan 20s linear 2;	
+	animation: plan 10s linear 2;	
 }
 @keyframes plan{
 	0%{
